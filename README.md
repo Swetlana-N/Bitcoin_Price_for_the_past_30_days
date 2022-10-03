@@ -1,7 +1,7 @@
 # Bitcoin_Price_for_the_past_30_days
 
 ### Prerequisites
-PyPI
+
 ```bash
 !pip install pycoingecko
 !pip install plotly
